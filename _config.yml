@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           /:year/:month/:day/:title/
+relative_permalinks: true
+
+# Setup
+title:               糖盒子
+tagline:             '做人嘛，最重要的是开心'
+description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 http://blog.tanghezi.com
+baseurl:             
+paginate:            5
+
+# About/contact
+author:
+  name:              '董咚董'
+  url:               https://twitter.com/williamdong
+  email:             dongweiliang@gmail.com
+
+# Custom vars
+version:             1.0.0
